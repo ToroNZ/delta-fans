@@ -12,8 +12,8 @@
 | **#2** | +12VDC | Orange |
 | **#1** |   GND  | Black  |
 | **#2** |   GND  | Gray   |
-| **#1** |   PWM  | Yellow |
-| **#2** |   PWM  | White  |
+| **#1** |   PWM  | White  |
+| **#2** |   PWM  | Yellow |
 | **#1** |   RPM  | Blue   |
 | **#2** |   RPM  | Green  |
 
